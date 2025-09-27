@@ -227,18 +227,18 @@ Nhập:
     + IP address: All Unassigned
     + Port: 80.
     + Host name: pikachu.local
-Nhấn OK.
+Nhấn OK.  
 
 <img width="733" height="937" alt="Screenshot 2025-09-27 210313" src="https://github.com/user-attachments/assets/3b0d85b2-d677-4626-ae6c-e5424fe4d486" />
 
 #### 3. Thêm domain vào file hosts
-Mở Notepad → Run as Administrator.
-Mở file:
-```C:\Windows\System32\drivers\etc\hosts``  
-Thêm dòng:
-```127.0.0.1   pikachu.local``  
+Mở Notepad → Run as Administrator.  
+Mở file:  
+```C:\Windows\System32\drivers\etc\hosts```  
+Thêm dòng:  
+```127.0.0.1   pikachu.local```  
 
-<img width="840" height="822" alt="Screenshot 2025-09-27 210753" src="https://github.com/user-attachments/assets/abcaeb49-657e-49f3-b242-d6f64ceaaf43" />  
+<img width="808" height="167" alt="Screenshot 2025-09-27 211355" src="https://github.com/user-attachments/assets/13bc31c5-0380-42f9-8086-fb4766f98ec6" />  
 
 #### 4. Cấu hình Application Pool
 1. Trong IIS Manager → Application Pools.  
