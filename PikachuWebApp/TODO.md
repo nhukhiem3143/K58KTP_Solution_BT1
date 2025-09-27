@@ -1,0 +1,4 @@
+- [x] Sửa hàm pauseGame để cho phép tiếp tục trò chơi khi tạm dừng
+- [x] Thêm liên kết favicon trong phần head sử dụng images/1.png
+- [x] Sửa hàm restartGame để sử dụng data.newBoard thay vì data.message
+- [ ] Kiểm tra các thay đổi bằng cách chạy ứng dụng để xác minh chức năng nút và hiển thị icon

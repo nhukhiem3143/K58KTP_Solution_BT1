@@ -1,0 +1,27 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
+*.vscode/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+
+# IIS Express
+.vs/
+*.dbmdl
+
+# Others
+*.exe
+*.dll
+*.pdb
