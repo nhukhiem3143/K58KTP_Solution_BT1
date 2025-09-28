@@ -1,0 +1,6 @@
+E:\Web_App_Develop\Solution\Pikachu\Pikachu\bin\Debug\Pikachu.dll
+E:\Web_App_Develop\Solution\Pikachu\Pikachu\bin\Debug\Pikachu.pdb
+E:\Web_App_Develop\Solution\Pikachu\Pikachu\obj\Debug\Pikachu.csproj.AssemblyReference.cache
+E:\Web_App_Develop\Solution\Pikachu\Pikachu\obj\Debug\Pikachu.csproj.CoreCompileInputs.cache
+E:\Web_App_Develop\Solution\Pikachu\Pikachu\obj\Debug\Pikachu.dll
+E:\Web_App_Develop\Solution\Pikachu\Pikachu\obj\Debug\Pikachu.pdb
