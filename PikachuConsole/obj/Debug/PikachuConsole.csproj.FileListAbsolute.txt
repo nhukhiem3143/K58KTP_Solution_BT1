@@ -1,0 +1,9 @@
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\obj\Debug\PikachuConsole.csproj.AssemblyReference.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\obj\Debug\PikachuConsole.csproj.CoreCompileInputs.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\bin\Debug\PikachuConsole.exe
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\bin\Debug\PikachuConsole.pdb
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\bin\Debug\Pikachu.dll
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\bin\Debug\Pikachu.pdb
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\obj\Debug\PikachuC.66926631.Up2Date
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\obj\Debug\PikachuConsole.exe
+E:\Web_App_Develop\Solution\Pikachu\PikachuConsole\obj\Debug\PikachuConsole.pdb
