@@ -1,0 +1,10 @@
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\bin\PikachuWebApp.dll.config
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\bin\PikachuWebApp.dll
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\bin\PikachuWebApp.pdb
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\bin\Pikachu.dll
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\bin\Pikachu.pdb
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\obj\Debug\PikachuWebApp.csproj.AssemblyReference.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\obj\Debug\PikachuWebApp.csproj.CoreCompileInputs.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\obj\Debug\PikachuW.A2448CF4.Up2Date
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\obj\Debug\PikachuWebApp.dll
+E:\Web_App_Develop\Solution\Pikachu\PikachuWebApp\obj\Debug\PikachuWebApp.pdb
