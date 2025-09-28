@@ -1,0 +1,12 @@
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\bin\Debug\PikachuWinForm.exe
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\bin\Debug\PikachuWinForm.pdb
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\bin\Debug\Pikachu.dll
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\bin\Debug\Pikachu.pdb
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.csproj.AssemblyReference.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.Form1.resources
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.Properties.Resources.resources
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.csproj.GenerateResource.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.csproj.CoreCompileInputs.cache
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuW.106D0DB2.Up2Date
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.exe
+E:\Web_App_Develop\Solution\Pikachu\PikachuWinForm\obj\Debug\PikachuWinForm.pdb
